@@ -1,0 +1,14 @@
+{
+  "albums": {
+    "imageSizes": [
+      "medium"
+    ],
+    "projectFields": 1,
+    "projectKeywords": 1,
+    "displayFields": [
+      "projectName",
+      "filename",
+      "projectCode"
+    ]
+  }
+}

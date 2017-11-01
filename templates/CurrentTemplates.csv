@@ -1,0 +1,9 @@
+,,,NOTES
+Clark Construction,Album,,
+Earth Balance,Project,,
+Kirkegaard,Project,,Adds a project description to 3 linked text boxes by passing a regex in to the where().pageItems() function
+Horner Shifrin,Project,,8 'simple' project based ones
+HPP,Album,,"4 in total (2 are copies of the same but in german), Uses .replace() to replace non-ascii characters"
+BPR,Album,,Uses .replace() to replace non-ascii characters
+OlssonAssociates,Project,,2 in total
+AKF,Project,,"8 project based ones in total (no images, 1, 2, 3 images)"

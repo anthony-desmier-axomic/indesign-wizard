@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "projectKeywords": 1,
+    "fields": 1,
+    "searches": [
+      {
+        "categoryCode": "Projects",
+        "keywords": "",
+        "displayFields": "filename,caption,photographer",
+        "imageSizes": "medium",
+        "orderBy": "rank",
+        "limit": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+    "projects": [{
+        "name": "West Haymarket, Core Cycle Track; Lincoln, NE",
+        "projects": null,
+        "nameAlias1": "Alta Planning - N Street Cycle Track, Lincoln, NE",
+        "codeAlias1": "",
+        "projectKeywords": {
+            "codes": [
+                "LocationCity",
+                "LocationState",
+                "Sector",
+                "Services"
+            ],
+            "categories": {
+                "LocationState": {
+                    "keywords": [{
+                        "name": "Nebraska"
+                    }],
+                    "name": "Location: State"
+                },
+                "Services": {
+                    "keywords": [{
+                        "name": "General Transportation/Traffic Services"
+                    }],
+                    "name": "Project Types"
+                },
+                "Sector": {
+                    "keywords": [{
+                        "name": "TRAFFIC-ITS"
+                    }],
+                    "name": "Services"
+                },
+                "LocationCity": {
+                    "keywords": [{
+                        "name": "Lincoln"
+                    }],
+                    "name": "Location: City"
+                }
+            }
+        },
+        "searches": [{
+            "files": [{
+                    "displayFields": {},
+                    "id": "68749",
+                    "sizes": {
+                        "original": {
+                            "width": "4800",
+                            "url": "https://data.openasset.com/c0920cbc/d445f38c10b550483956e73aeb77db3d/013_0195_N31.jpg",
+                            "height": "3200"
+                        }
+                    },
+                    "md5": "d445f38c10b550483956e73aeb77db3d"
+                },
+                {
+                    "displayFields": {},
+                    "id": "68750",
+                    "sizes": {
+                        "original": {
+                            "width": "4800",
+                            "url": "https://data.openasset.com/c0920cbc/bb67deb45533e268dd619e0d60c88378/013_0195_N32.jpg",
+                            "height": "3200"
+                        }
+                    },
+                    "md5": "bb67deb45533e268dd619e0d60c88378"
+                }
+            ]
+        }],
+        "codeAlias2": "",
+        "fields": {
+            "ShortDescription": {
+                "dataType": "string",
+                "displayType": "multiLine",
+                "name": "Short description",
+                "values": [
+                    ""
+                ]
+            },
+            "LongDescription": {
+                "dataType": "string",
+                "displayType": "multiLine",
+                "name": "Long description",
+                "values": [
+                    "As part of Lincoln’s downtown master plan, the City began the planning process for a cycle track along the south side of “N” Street from the Jamaica Trail in the Haymarket to 17th Street on the east. This plan for a separated cycle track will generate additional utilization and provide a key multimodal connection and backbone for the City of Lincoln’s downtown on-street bicycle system.\nDue to the aggressive schedule of the West Haymarket Arena project, the first section of the cycle track in the Haymarket was moved forward earlier than that rest of the downtown plan. Olsson Associates took over the preliminary layout and proceeded with final design for the west end of the track in conjunction with the Haymarket Core Area roadway infrastructure that is being completed to support the new 16,000 seat arena and redevelopment area.\nToday, “N” Street generally consists of a 60-foot back-of-curb to back-of-curb, two-lane, two-way facility with diagonal parking on both sides. The design includes removing parking and converting to a cycle track and four-lane facility to service the high traffic volumes associated with the Haymarket Arena. Unique aspects of the design include the merge/diverge point from being off-street to on-street, crossing multiple drives, alleys, and off-set intersections. To compound things, “N” Street is two-way through this section.\nOlsson established a precedent for the future of the “N” Street cycle track and other potential locations with the use of unique signs and marking patterns specific to this design."
+                ]
+            },
+            "Codealias3": {
+                "dataType": "string",
+                "displayType": "singleLine",
+                "name": "Code alias 3",
+                "values": [
+                    null
+                ]
+            },
+            "Client": {
+                "dataType": "string",
+                "displayType": "suggestion",
+                "name": "Client",
+                "values": [
+                    "Alta Planning and Design"
+                ]
+            },
+            "ProjectType": {
+                "dataType": "string",
+                "displayType": "singleLine",
+                "name": "Project Type",
+                "values": [
+                    "General Transportation/Traffic Services"
+                ]
+            }
+        },
+        "code": "013-0195",
+        "nameAlias2": ""
+    }],
+    "templates": {
+        "v1": "https://data.openasset.com/c0920cbc/__OAData/Scripts/20170802140729_3_v1.idml"
+    }
+}

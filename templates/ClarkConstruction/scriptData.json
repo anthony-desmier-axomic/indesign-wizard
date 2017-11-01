@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "projectKeywords": 1,
+    "fields": 1,
+    "searches": [
+      {
+        "categoryCode": "Projects",
+        "keywords": "",
+        "displayFields": "",
+        "imageSizes": "medium",
+        "orderBy": "rank",
+        "rankFrom": 1,
+        "rankTo": 10,
+        "limit": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+/**
+ * SCRIPT DATA JSON
+ * - this is used to define what info you what to return from OA
+ * - the info is returned as a data object which is loaded on the template script as the object 'data'
+ * - retrieving the data from OA is way DOES NOT use the rest api but some other process
+ * - this means you may find your templates behaving differently compared to wizard based templates
+ * - it's not currently possible to return file-based keyword info
+ * - returning displayFields and imageSizes must entered as a comma separated string and NOT an array
+ */
+
+{
+  "projects": {
+    //will return all project keywords, set to 0 to omit
+    "projectKeywords": 1,
+    //will return all project fields, set to 0 to omit
+    "fields": 1,
+    //included info about the files you would like to return in the searches array. You can
+    //have multiple search array elements to separate the returned data
+    "searches": [{
+      "categoryCode": "Projects",
+      //multiple file based custom fields can be returned using a comma separated string
+      "displayFields": "filename,caption,photographer,dateUploaded",
+      //multiple image sizes can be returned using a comma separated string
+      "imageSizes": "medium,small,webview",
+      "orderBy": "rank",
+      "rankFrom"	:	1,
+      "rankTo"	:	1,
+      "offset"	:	0,
+      //the number of files to return info on
+      "limit": 3
+    }]
+  }
+}

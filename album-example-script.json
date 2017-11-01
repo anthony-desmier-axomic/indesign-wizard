@@ -1,0 +1,20 @@
+/**
+ * SCRIPT DATA JSON
+ * 
+ */
+
+{
+  "albums": {
+    "imageSizes": [
+      "medium",
+      "small"
+    ],
+    "projectFields": 1,
+    "projectKeywords": 1,
+    "fields": 1,
+    "displayFields": [
+      "projectName",
+      "filename"
+    ]
+  }
+}
